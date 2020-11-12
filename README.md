@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently studing in university.
 - 🌱 I’m currently learning Android
-- 🏃‍ I’m love to run!
+- 🏃‍  I’m love to run!
 - 🤩 I’m a lsp.
