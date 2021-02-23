@@ -2,9 +2,10 @@
 
 ###  👋 Hi there! Here is zsqw123's GitHub.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zsqw123&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsqw123&count_private=true&show_icons=true&layout=compact&theme=omni&hide=html)](https://github.com/anuraghazra/github-readme-stats)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)  
+[![](https://raw.githubusercontent.com/zsqw123/psc/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zsqw123/psc/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zsqw123/psc/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 - 🔭 I’m currently studing in university.
 - 🌱 I’m currently learning Android
