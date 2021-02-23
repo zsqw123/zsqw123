@@ -1,4 +1,4 @@
-![head.png](head.png)
+![head.png](https://cdn.jsdelivr.net/gh/zsqw123/cdn@master/picCDN/20210223091610.webp)
 
 ###  👋 Hi there! Here is zsqw123's GitHub.
 
