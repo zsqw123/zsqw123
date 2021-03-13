@@ -1,4 +1,4 @@
-![head.png](https://cdn.jsdelivr.net/gh/zsqw123/cdn@master/picCDN/20210223091610.webp)
+![head](https://cdn.jsdelivr.net/gh/zsqw123/cdn@master/picCDN/20210313081419.webp)
 
 ###  👋 Hi there! Here is zsqw123's GitHub.
 
@@ -11,4 +11,3 @@
 - 🌱 I’m currently learning Android
 - 👟 I love to run!
 - 🐈 I am loving cute cats!
-- 🤩 I’m a lsp.
