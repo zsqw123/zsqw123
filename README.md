@@ -11,3 +11,8 @@
 - 🌱 I’m currently learning Android
 - 👟 I love to run!
 - 🐈 I am loving cute cats!
+
+---
+My android demos link: [Android-Learner](https://github.com/zsqw123/Android-Learner)  
+Tujian Project: [Tujian](https://github.com/tupics) | [tujian-kt](https://github.com/zsqw123/tujian-kt)  
+QQ message export tool: [QQEX](https://github.com/zsqw123/QQ-Exp-Android)
