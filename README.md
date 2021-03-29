@@ -7,9 +7,9 @@
 ![](https://raw.githubusercontent.com/zsqw123/psc/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 
 
-- 🔭 I’m currently studying in university.
-- 🌱 I’m currently learning Android
-- 👟 I love to run!
+- 🔭 I'm currently studying in university.
+- 🌱 I'm an android developer!
+- 👟 I love running!
 - 🐈 I am loving cute cats!
 
 ---
