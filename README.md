@@ -14,7 +14,7 @@
 
 ---
 My android demos link: [Android-Learner](https://github.com/zsqw123/Android-Learner)  
-New technical experience and some notes: [Gist](https://gist.github.com/zsqw123)  
+Some fun code notes: [Gist](https://gist.github.com/zsqw123)  
 QQ message export tool: [QQEX](https://github.com/zsqw123/QQ-Exp-Android)  
 [leetcode/zsqw123](https://leetcode-cn.com/u/zsqw123/): [github/leetcode](https://github.com/zsqw123/leetcode)  
-Personal website: [zsqw123.fun](https://zsqw123.fun)
+Personal website: [bytedance.host](https://bytedance.host)
