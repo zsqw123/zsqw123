@@ -10,7 +10,7 @@
 - 🔭 I'm currently studying in university.
 - 🌱 I'm an android developer!
 - 👟 I love running!
-- 🐈 I am loving cute cats!
+- 🐈 I love cat!
 
 ---
 My android demos link: [Android-Learner](https://github.com/zsqw123/Android-Learner)  
