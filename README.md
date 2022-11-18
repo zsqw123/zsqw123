@@ -8,7 +8,7 @@
 
 
 - 🔭 I'm currently studying in university.
-- 🌱 I'm an Kotlin developer!
+- 🌱 I'm a Kotlin developer!
 - 👟 I love running!
 - 🐈 I love cat!
 
