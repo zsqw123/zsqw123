@@ -1,6 +1,6 @@
 ![head](head.svg)
 
-###  👋 Hi there! Here is zsqw123's GitHub.
+### 👋 Hi there! This is zsqw123's GitHub.
 
 ![](https://cdn.jsdelivr.net/gh/zsqw123/psc@master/profile-summary-card-output/dracula/0-profile-details.svg)
 ![](https://cdn.jsdelivr.net/gh/zsqw123/psc@master/profile-summary-card-output/dracula/1-repos-per-language.svg)
