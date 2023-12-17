@@ -1,4 +1,4 @@
-![head](https://cdn.jsdelivr.net/gh/zsqw123/cdn@master/picCDN/20210313085629.webp)
+![head](head.svg)
 
 ###  👋 Hi there! Here is zsqw123's GitHub.
 
