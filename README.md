@@ -7,7 +7,7 @@
 ![](https://cdn.jsdelivr.net/gh/zsqw123/psc@master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 
 
-- 🔭 I'm currently studying in shanghai.
+- 🔭 I'm currently studying.
 - 🌱 I'm a Kotlin developer! Interested in: build system / compiler / architecture
 - 👟 I love running!
 - 🐈 I love cat!
