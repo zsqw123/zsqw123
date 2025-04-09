@@ -2,7 +2,7 @@
 
 ### 👋 Hi there! This is zsqw123's GitHub.
 
-![](https://cdn.jsdelivr.net/gh/zsqw123/psc@master/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/zsqw123/psc/master/profile-summary-card-output/dracula/0-profile-details.svg)
 ![](https://cdn.jsdelivr.net/gh/zsqw123/psc@master/profile-summary-card-output/dracula/1-repos-per-language.svg)
 ![](https://cdn.jsdelivr.net/gh/zsqw123/psc@master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 
